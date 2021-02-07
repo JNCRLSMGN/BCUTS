@@ -1,2 +1,2 @@
 # BCUTS
- BCUTS Website (Drupal)
+ Creating a website using Drupal CMS for the business of BCUTS
